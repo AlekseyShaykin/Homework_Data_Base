@@ -2,7 +2,7 @@ CREATE DATABASE IF NOT EXISTS seminar_2;
 USE seminar_2;
 
 
--- 1. Создать таблицу sales
+-- 1. Создать таблицу sales.
 
 DROP TABLE IF EXISTS sales;
 CREATE TABLE sales
